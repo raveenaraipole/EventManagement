@@ -1,0 +1,20 @@
+{
+  "name": "eventmanagement_ooloi",
+  "version": "1.0.0",
+  "description": "\"Event Management Page\"",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon script.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "mongoose": "^5.5.6",
+    "mongoose-type-url": "^2.0.0",
+    "nodemon": "^2.0.4"
+  }
+}
